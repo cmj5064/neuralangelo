@@ -22,5 +22,5 @@ dependencies:
   # pytorch
   - pytorch
   - torchvision
-  - pip:
-    - -r requirements.txt
+  # - pip:
+  #   - -r requirements.txt
